@@ -1,3 +1,3 @@
-Git is a version of control system
+Git is a distributed version of control system
 
-Git is free soft
+Git is free software
